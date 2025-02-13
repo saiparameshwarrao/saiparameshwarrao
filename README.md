@@ -19,4 +19,4 @@
 - **Languages:** Java, Python, C++, Go  
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Java, Python, Go  
-- **Database:** PostgreSQL  
+- **Database:** MySQL 
