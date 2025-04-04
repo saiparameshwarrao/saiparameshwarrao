@@ -18,7 +18,7 @@
 # Hi there, I'm Sai Parameshwar Rao! 👋
 
 ## 🚀 About Me
-I'm a passionate **developer** with experience in **Java, Python, C++, React, Go, web development, C, MySQL, MongoDB, Node.js, Django, GitHub, VS Code, Jupyter Notebook**. I love solving problems, working on projects, and contributing to the tech community.
+I'm a passionate **developer** with experience in **Java, Python, C++, React, Go, web development, C, MySQL, PostgreSQL, MongoDB, Node.js, Django, GitHub, VS Code, Jupyter Notebook**. I love solving problems, working on projects, and contributing to the tech community.
 
 ## 🔧 Skills & Interests
 - **Languages:** Java, Python, C++, Go, JavaScript, HTML, CSS
