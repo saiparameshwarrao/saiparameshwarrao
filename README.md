@@ -93,7 +93,7 @@ I'm a passionate **developer** skilled in multiple technologies. I enjoy buildin
 - Build and maintain **CI/CD pipelines** to automate testing and deployment.
 - Containerize applications using **Docker** and orchestrate with **Kubernetes**.
 - Automate infrastructure and configuration with **Ansible**.
-- Collaborate on open-source projects and contribute to the community.
+
 
 ---
 
