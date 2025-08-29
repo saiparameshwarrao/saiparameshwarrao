@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>I'm Sai Parameshwar Rao<br><br>👨‍💻 I’m a passionate software developer who loves building creative solutions and contributing to open-source projects.<br>🌱 Currently learning cloud technologies to enhance my full-stack development skills.<br>🛠️ My tech stack includes JavaScript, Python, React, Node.js, MongoDB, Git, and Docker.<br>🧩 I love solving coding challenges and experimenting with new technologies.
+Hi there 👋<br><br>I'm Sai Parameshwar Rao<br><br>👨‍💻 I’m a pre-final student at SR Unoversity, who loves building creative solutions and contributing to open-source projects.<br>🌱 Currently learning cloud technologies to enhance my full-stack development skills.<br>🛠️ My tech stack includes JavaScript, Python, React, Node.js, MongoDB, Git, and Docker.<br>🧩 I love solving coding challenges and experimenting with new technologies.
 
 
 ## 🌐 Socials:
