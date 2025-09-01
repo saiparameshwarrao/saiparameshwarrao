@@ -6,7 +6,7 @@ Hi there 👋, I’m **Sai Parameshwar Rao**
 - 🌱 Currently learning **Cloud Technologies** to enhance my **Full-Stack Development** skills.  
 - 🛠️ Tech Stack: **JavaScript | Python | React | Node.js | MongoDB | Git | Docker**  
 - 🧩 Love solving **coding challenges** and experimenting with **new technologies**.  
-- 🎯 Aspiring to grow into a **skilled full-stack developer** with strong cloud expertise.  
+- 🎯 Aspiring to grow into a **skilled full-stack developer** with good cloud expertise.  
 
 
 ## 🌐 Socials
