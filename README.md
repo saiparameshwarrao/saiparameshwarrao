@@ -2,7 +2,7 @@
 
 Hi there 👋, I’m **Sai Parameshwar Rao**  
 
-- 👨‍💻 Pre-final year student at **SR University**, passionate about building creative solutions and contributing to open-source projects.  
+- 👨‍💻 Final year student at **SR University**, passionate about building creative solutions and contributing to open-source projects.  
 - 🌱 Currently learning **Cloud Technologies** to enhance my **Full-Stack Development** skills.  
 - 🛠️ Tech Stack: **JavaScript | Python | React | Node.js | MongoDB | Git | Docker**  
 - 🧩 Love solving **coding challenges** and experimenting with **new technologies**.  
